@@ -1,7 +1,4 @@
 # PROJECTS
-Project Files
-
-# PROJECTS
 
 | PROJECT | DESCRIPTION |
 |----------------|-------------|
